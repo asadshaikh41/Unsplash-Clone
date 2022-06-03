@@ -19,3 +19,23 @@
    width: 30%;
    margin: 5px;
 }
+button{
+  padding: 5px;
+  width: 200px;
+  font-size: 20px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  background-color: black;
+  color: white;
+}
+input{
+  outline: none;
+  border-radius: 20px;
+  box-shadow: 1px 1px 5px grey;
+  font-size: 20px;
+}
+
+span{
+  font-size: 20px;
+}
